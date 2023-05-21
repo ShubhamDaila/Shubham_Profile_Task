@@ -1,0 +1,61 @@
+.Name {
+  text-align: center;
+  float: left;
+}
+
+.Photo {
+  height: 150px;
+  float: right;
+}
+
+.Me {
+  background-color: #7fffd4;
+}
+
+.About-me {
+  text-align: center;
+  background-color: #32ca6a;
+}
+
+.Hobbies {
+  text-align: center;
+  background-color: #32ca6a;
+}
+
+.location {
+  text-align: center;
+}
+
+.location-heading {
+  background-color: #32ca6a;
+}
+
+.social-links {
+  text-align: center;
+}
+
+.social-links-heading {
+  background-color: #32ca6a;
+}
+
+.facebook {
+  height: 50px;
+}
+
+.instagram {
+  height: 50px;
+}
+
+.github {
+  height: 50px;
+}
+
+.float-elemination {
+  clear: both;
+}
+
+.clearfix::after {
+  clear: both;
+  content: "";
+  display: block;
+}
